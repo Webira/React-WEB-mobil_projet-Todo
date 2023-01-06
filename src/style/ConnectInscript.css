@@ -1,0 +1,212 @@
+
+form{ 
+position: relative;
+width: 428px;
+height: 926px;
+
+background: #EDFFFB;
+}
+
+/* Inscription */
+h1{
+position: absolute;
+width: 428px;
+height: 75px;
+left: 0px;
+top: 197px;
+
+font-family: 'Lobster';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 60px;
+display: flex;
+align-items: center;
+text-align: center;
+
+/* soft black */
+color: #4F4F4F;
+}
+
+
+/* Input Text Valid */
+
+input.email{
+position: absolute;
+width: 371px;
+height: 71px;
+left: 28px;
+top: 320px;
+
+background: #EDFFFB;
+}
+
+/* abc@gmail.com */
+
+.email{
+position: absolute;
+left: 20px;
+right: 78px;
+top: 2px;
+bottom: 0px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+display: flex;
+align-items: center;
+
+/* soft black */
+color: #4F4F4F;
+}
+
+
+/* icon */
+
+div#inputE i{
+position: absolute;
+width: 78px;
+right: 0px;
+top: 2px;
+bottom: 0px;
+
+font-family: 'Font Awesome 5 Free';
+font-style: normal;
+font-weight: 900;
+font-size: 40px;
+line-height: 46px;
+display: flex;
+align-items: center;
+text-align: center;
+
+/* Valid Green */
+color: #557859;
+}
+
+
+/* border */
+.border{
+position: absolute;
+height: 1px;
+left: 3px;
+right: 0px;
+bottom: -1px;
+
+/* soft black */
+background: #4F4F4F;
+transform: matrix(1, 0, 0, -1, 0, 0);
+}
+
+/* Input Text Valid */
+input.password{
+position: absolute;
+width: 371px;
+height: 71px;
+left: 29px;
+top: 439px;
+
+background: #EDFFFB;
+}
+
+/* •••••••••••••• */
+.password{
+position: absolute;
+left: 20px;
+right: 78px;
+top: 2px;
+bottom: 0px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+display: flex;
+align-items: center;
+
+/* soft black */
+color: #4F4F4F;
+}
+
+
+/* icon */
+div#inputP i{ 
+position: absolute;
+width: 78px;
+right: 0px;
+top: 2px;
+bottom: 0px;
+
+font-family: 'Font Awesome 5 Free';
+font-style: normal;
+font-weight: 900;
+font-size: 40px;
+line-height: 46px;
+display: flex;
+align-items: center;
+text-align: center;
+
+/* Valid Green */
+color: #557859;
+}
+
+
+/* Button Valid */
+button{
+position: absolute;
+width: 276px;
+height: 68px;
+left: 76px;
+top: 558px;
+
+/* Valid Green */
+background: #557859;
+box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.25);
+border-radius: 10px;
+}
+
+/* S’inscrire */
+
+/* position: absolute;
+left: 9px;
+right: 11px;
+top: 0px;
+bottom: 0px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 30px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #EDFFFB; */
+
+
+
+/* Vous avez dèja un compte ? Connéctez-vous */
+p.text{
+position: absolute;
+width: 368px;
+height: 68px;
+left: 30px;
+top: 674px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+display: flex;
+align-items: center;
+text-align: center;
+
+/* Black Deep Blue */
+color: #264F4A;
+}
+
+
